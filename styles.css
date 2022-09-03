@@ -349,3 +349,6 @@ button{
     margin-left:0.5em;
     margin-top: -3.3em;
 }
+.fix{
+position:fixed;
+}
